@@ -1,7 +1,7 @@
 import pyautogui
 import time 
 import keyboard
-pyautogui.mouseInfo()
+
 while 1:
     if keyboard.read_key() == "space":
         position = pyautogui.position()
