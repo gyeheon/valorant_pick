@@ -80,6 +80,7 @@ def main():
 
 main()
 print("tet")
+print('test2')
 
 
 
